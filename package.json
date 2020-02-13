@@ -1,0 +1,21 @@
+{
+  "name": "app-bootstrap-cli",
+  "version": "1.0.1",
+  "description": "Command line interface to get you up to speed with doing your application by bootstrapping most of the common features feature you need for example setting up scripts for CI/CD, folder layouts etc.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katuulajoel/app-bootstrap-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katuulajoel/app-bootstrap-cli/issues"
+  },
+  "homepage": "https://github.com/katuulajoel/app-bootstrap-cli#readme"
+}
